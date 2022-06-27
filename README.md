@@ -5,3 +5,6 @@
 
 * Musterlösung einer älteren Schulung
   * https://github.com/thorstenmaier/2022-01-31-spring-training
+
+* Component-Scan per Namenskonvention
+  * https://www.baeldung.com/spring-componentscan-filter-type
