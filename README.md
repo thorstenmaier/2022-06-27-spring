@@ -8,3 +8,7 @@
 
 * Component-Scan per Namenskonvention
   * https://www.baeldung.com/spring-componentscan-filter-type
+
+* Wiederholung Tag 1
+  * https://wally.azurewebsites.net/Test
+  * https://wally.azurewebsites.net/Spring
